@@ -8,3 +8,16 @@
     background: rgb(184, 209, 255);
     border-radius: 10px;
 }
+
+.cell {
+    display: flex;
+    justify-content: space-around;
+}
+
+.cell span {
+    float: right;
+}
+
+.modal-footer button {
+    margin: auto;
+}
